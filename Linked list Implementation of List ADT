@@ -1,4 +1,6 @@
-#include<iostream.h> #include<conio.h> #include<process.h> void create();
+#include<iostream.h> 
+#include<conio.h> 
+#include<process.h> void create();
 void insert(); void deletion(); void search(); void display();
 int a,b[20],n,d,e,f,i; void main()
 {
